@@ -9,11 +9,6 @@
 - Improving my skills in **UI/UX Design** for better application interfaces.
 
 
-## 💬 Ask me about...
-- **Data Analysis** techniques and tools (Excel, SPSS, R, SQL).
-- Building **interactive dashboards** for business performance tracking.
-- **Python**, **Node.js**, and **SQL** coding best practices.
-
 ## 📫 How to reach me:
 - Email: [remadatas@gmail.com](mailto:remadatas@gmail.com)
 -
