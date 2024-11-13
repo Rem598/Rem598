@@ -5,13 +5,12 @@
 - Building a **Dictionary app** with multi-language support and offline mode.
 
 ## 🌱 I’m currently learning...
-- Advanced **Machine Learning** algorithms and **Data Engineering** concepts.
 - Improving my skills in **UI/UX Design** for better application interfaces.
 
 
 ## 📫 How to reach me:
 - Email: [remadatas@gmail.com](mailto:remadatas@gmail.com)
--
+
 
 ## 😄 Pronouns:
 - She/Her
