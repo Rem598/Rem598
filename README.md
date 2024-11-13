@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**Rem598/Rem598** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 I’m currently working on...
+- Developing a **Business Performance Tracker** app using **Node.js** and **MySQL**.
+- Building a **Dictionary app** with multi-language support and offline mode.
 
-Here are some ideas to get you started:
+## 🌱 I’m currently learning...
+- Advanced **Machine Learning** algorithms and **Data Engineering** concepts.
+- Improving my skills in **UI/UX Design** for better application interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 💬 Ask me about...
+- **Data Analysis** techniques and tools (Excel, SPSS, R, SQL).
+- Building **interactive dashboards** for business performance tracking.
+- **Python**, **Node.js**, and **SQL** coding best practices.
+
+## 📫 How to reach me:
+- Email: [remadatas@gmail.com](mailto:remadatas@gmail.com)
+-
+
+## 😄 Pronouns:
+- She/Her
+
+## ⚡ Fun fact:
+- I am passionate about anime, books, and coding, and I love attending cosplay events!
