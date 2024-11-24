@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## 🔭 I’m currently working on...
-- Developing a **Business Performance Tracker** app using **Node.js** and **MySQL**.
+- Developing a **Business Performance Tracker** app using **Django** and **MySQL**.
 - Building a **Dictionary app** with multi-language support and offline mode.
 
 ## 🌱 I’m currently learning...
