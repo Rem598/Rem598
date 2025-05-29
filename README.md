@@ -8,4 +8,4 @@
 - Improving my skills in **UI/UX Design** for better application interfaces.
 
 ## ⚡ Fun fact:
-- I am passionate about anime, books, and coding, and I love attending cosplay events!
+- I am passionate about anime, books, and coding.
