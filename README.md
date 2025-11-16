@@ -2,7 +2,7 @@
 
 ### Data Analyst | Machine Learning Enthusiast | Automation Specialist | BI Specialist
 
-I'm that person who's been counting steps and grouping things in even/odd numbers since childhood. Turns out that quirk became a career—now I wrangle data, build ML models, and automate workflows for a living.
+I'm that person who's been counting steps and grouping things in even/odd numbers since childhood. Turns out that quirk became a career; now I wrangle data, build ML models, and automate workflows for a living.
 
 
 ## 🔧 What I Work With
@@ -38,7 +38,7 @@ Automated data pipeline fetching from APIs, transforming, and analyzing in real-
 **Tech:** n8n, API Integration, ETL
 
 
-
+---
 
 
 
