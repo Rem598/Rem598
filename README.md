@@ -1,6 +1,6 @@
 # Hi there, I'm Rehema 👋
 
-### Data Analyst | Machine Learning Enthusiast | Automation Specialist | BI Specialist
+### Analyst | Machine Learning | Automation | BI 
 
 I'm that person who's been counting steps and grouping things in even/odd numbers since childhood. Turns out that quirk became a career; now I wrangle data, build ML models, and automate workflows for a living.
 
