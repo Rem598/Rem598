@@ -74,6 +74,3 @@ I'm always open to discussing data challenges, new projects, or collaboration op
 *"There's something deeply satisfying about taking chaotic data and transforming it into insights that actually matter."*
 
 
-
-
-*"There's something deeply satisfying about taking chaotic data and transforming it into insights that actually matter."*
