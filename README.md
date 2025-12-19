@@ -2,7 +2,7 @@
 
 ### Analyst | Machine Learning | Automation | Business Intelligence
 
-I'm that person who's been counting steps and grouping things in even/odd numbers since childhood. Turns out that quirk became a career—now I wrangle data, build ML models, and automate workflows that drive real business impact.
+I'm that person who's been counting steps and grouping things in even/odd numbers since childhood. Turns out that quirk became a career;now I wrangle data, build ML models, and automate workflows that drive real business impact.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-blue?style=for-the-badge&logo=google-chrome)](https://rem598.github.io/Projects/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rehema-kemunto)
