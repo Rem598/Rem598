@@ -1,76 +1,106 @@
-# Hi there, I'm Rehema 
+# Hi there, I'm Rehema 👋
 
-### Analyst | Machine Learning | Automation | Business Intelligence
+### Data Analyst | Statistical Methods | Business Intelligence | Automation
 
-I'm that person who's been counting steps and grouping things in even/odd numbers since childhood. Turns out that quirk became a career;now I wrangle data, build ML models, and automate workflows that drive real business impact.
+I turn messy data into actionable insights using a mix of analytics, statistical testing, and automation. Whether it's building dashboards to track business metrics, running hypothesis tests to validate assumptions, or automating repetitive workflows,I focus on solving real problems with data.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-blue?style=for-the-badge&logo=google-chrome)](https://rem598.github.io/Projects/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-10B981?style=for-the-badge&logo=google-chrome)](https://rem598.github.io/Projects/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rehema-kemunto)
 
 ---
 
-## Tech Stack
+## 💡 What I Do
+
+**Data Analysis & Insights**  
+Exploring data, identifying trends, and translating findings into business recommendations that drive decisions.
+
+**Statistical Validation**  
+Using hypothesis testing (t-tests, ANOVA, chi-square) and experimental design to validate assumptions and quantify impact—not just correlations.
+
+**Business Intelligence**  
+Building interactive dashboards (Power BI, Tableau) that track KPIs and uncover operational insights.
+
+**Automation & Workflows**  
+Streamlining data processes with n8n, Python, and Google Apps Script to eliminate manual work and ensure consistency.
+
+---
+
+## 🛠️ Tech Stack
 
 **Languages:** Python • R • SQL  
-**Visualization:** Power BI • Tableau • Excel  
-**Machine Learning:** XGBoost • Random Forest • Prophet • SMOTE  
-**Automation:** n8n • Google Apps Script • API Integration  
-**Statistical Analysis:** SPSS • Stata • PSPP
+**Visualization:** Power BI • Tableau • Looker Studio  
+**Statistical Tools:** SPSS • Stata • Hypothesis Testing  
+**Machine Learning:** XGBoost • Random Forest • Prophet  
+**Automation:** n8n • Google Apps Script
 
 ---
 
-## Featured Projects
+## ⭐ Featured Projects
 
-###  [Retail Operations & Finance Optimization](https://github.com/Rem598/Retail-Ops-Finance-Optimization)
-Comprehensive MIS project optimizing supply chain and financial workflows. Built Power BI dashboard tracking **$66.31M revenue**, automated invoice alerts, and reduced fulfillment delays by identifying root cause warehouses.
+### 📊 [Weather Impact on Demand: Hypothesis Testing](https://github.com/Rem598/Forecasting-Demand-by-Weather)
+Used **Welch's t-test** on 17,000+ hours of data to quantify how rain affects service demand. Delivered data-backed staffing recommendations that save **£23K/month** by optimizing workforce scheduling.
 
-**Tech:** SQL • Power BI • Google Apps Script • Automation
-
-### [Customer Churn Prediction System](https://github.com/Rem598/FUTURE_ML_02)
-End-to-end ML pipeline predicting telecom customer churn with **85%+ accuracy**. Used SMOTE for class balancing and ensemble models to deliver actionable retention insights.
-
-**Tech:** Python • XGBoost • Random Forest • SMOTE
-
-### [Sales Forecasting with Prophet](https://github.com/Rem598/FUTURE_ML_01)
-Time series forecasting for 365 days of sales using Facebook Prophet. Created interactive Power BI dashboard showing actual vs. forecasted sales with seasonal trend analysis.
-
-**Tech:** Python • Prophet • Power BI • Time Series
-
-### [AI Chat Data Analysis Workflow](https://github.com/Rem598/n8n-ai-chat-data-analysis-workflow)
-Intelligent automation workflow enabling conversational data analysis. Users query datasets via chat interface; system processes, analyzes, and returns insights automatically.
-
-**Tech:** n8n • AI Integration • Workflow Automation
-
-###  [Social Media Ad Performance Dashboard](https://github.com/Rem598/Social-Media-Ad-Performance-Dashboard)
-Power BI dashboard analyzing social media campaigns across Facebook and Instagram. Tracked **340K impressions**, **40K clicks**, and **$101K revenue** with **333% ROI**. Identified optimal ad scheduling and high-performing demographics.
-
-**Tech:** Power BI • DAX • Marketing Analytics
+**Tech:** Python • Hypothesis Testing • Statistical Analysis  
+**Impact:** 38.7% demand reduction quantified, dynamic scheduling enabled
 
 ---
 
-## 📌 More Projects
+### 💼 [Retail Operations & Finance Optimization](https://github.com/Rem598/Retail-Ops-Finance-Optimization)
+Built Power BI dashboard tracking **$66M revenue** across 4 regions. Automated invoice alerts with Google Apps Script and identified root cause warehouses reducing fulfillment delays.
 
-Explore my full portfolio to see 13+ projects across:
-- Data Analysis & EDA
-- Machine Learning & Predictive Modeling
-- Business Intelligence & Dashboards
-- Process Automation & Workflow Optimization
-- Statistical Analysis
+**Tech:** SQL • Power BI • Google Apps Script • Automation  
+**Impact:** Improved data accuracy, reduced manual reporting time
+
+---
+
+### 🔍 [Product Quality Root Cause Analysis](https://github.com/Rem598/Polo-Shirt-Product-Performance-Analysis)
+Analyzed 5,000+ transactions to diagnose 48% product return rate. Used statistical validation to isolate quality issues by variant and recommended fixes projected to increase profit by 23%.
+
+**Tech:** SQL • Power BI • Root Cause Analysis  
+**Impact:** Identified defective product variant, clear action plan delivered
+
+---
+
+### 🤖 [Customer Churn Prediction System](https://github.com/Rem598/FUTURE_ML_02)
+Built ML pipeline predicting telecom customer churn with **85%+ accuracy**. Used SMOTE for class balancing and ensemble models (XGBoost, Random Forest) to deliver retention insights.
+
+**Tech:** Python • XGBoost • Random Forest • Machine Learning  
+**Impact:** Identified top 5 churn drivers, enabled targeted retention
+
+---
+
+## 📂 More Projects
+
+**Analytics & EDA:**  
+[Coffee Shop Customer Behavior (R)](https://github.com/Rem598/Coffee-Shop-Customer-Behavior-Analysis-R) • [Online Sales Analysis](https://github.com/Rem598/Online-Sales-EDA-SQL-Excel) • [Demographic Analysis](https://github.com/Rem598/Demographic-Data-Analysis-Project)
+
+**Business Intelligence Dashboards:**  
+[Social Media Ad Performance](https://github.com/Rem598/Social-Media-Ad-Performance-Dashboard) • [E-commerce Superstore](https://github.com/Rem598/E-commerce-Superstore-BI-Dashboard) • [Customer Segmentation](https://github.com/Rem598/Customer-Segmentation-Marketing-Tableau)
+
+**Machine Learning:**  
+[Sales Forecasting (Prophet)](https://github.com/Rem598/FUTURE_ML_01) • [Cluster Analysis](https://github.com/Rem598/Cluster-analysis)
+
+**Automation:**  
+[AI Chat Data Workflow](https://github.com/Rem598/n8n-ai-chat-data-analysis-workflow) • [API Analysis Workflow](https://github.com/Rem598/n8n-API-data-analysis-workflow)
 
 **[→ View Full Portfolio](https://rem598.github.io/Projects/)**
 
 ---
 
-## Let's Connect
+## 📊 GitHub Stats
 
-I'm always open to discussing data challenges, new projects, or collaboration opportunities.
-
-- [LinkedIn](https://www.linkedin.com/in/rehema-kemunto)
-- [Portfolio](https://rem598.github.io/Projects/)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rem598&layout=compact&theme=dark)
 
 ---
 
-*"There's something deeply satisfying about taking chaotic data and transforming it into insights that actually matter."*
+## 💬 Let's Connect
 
+I'm open to discussing data projects, analytics challenges, or collaboration opportunities. Currently exploring roles in analytics, experimentation, and business intelligence.
 
+- 💼 [LinkedIn](https://www.linkedin.com/in/rehema-kemunto)
+- 🌐 [Portfolio](https://rem598.github.io/Projects/)
+  
+
+---
+
+*"I believe the best insights come from asking the right questions, testing assumptions with data, and automating what can be automated so you can focus on what actually matters."*
