@@ -85,11 +85,6 @@ Built ML pipeline predicting telecom customer churn with **85%+ accuracy**. Used
 
 **[→ View Full Portfolio](https://rem598.github.io/Projects/)**
 
----
-
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rem598&layout=compact&theme=dark)
 
 ---
 
