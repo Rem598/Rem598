@@ -95,7 +95,6 @@ I'm open to discussing data projects, analytics challenges, or collaboration opp
 - 💼 [LinkedIn](https://www.linkedin.com/in/rehema-kemunto)
 - 🌐 [Portfolio](https://rem598.github.io/Projects/)
   
-
 ---
 
 *"I believe the best insights come from asking the right questions, testing assumptions with data, and automating what can be automated so you can focus on what actually matters."*
