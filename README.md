@@ -1,6 +1,6 @@
 # Hi there, I'm Rehema 👋
 
-### Data Analyst | Statistics
+### Data Analyst | Statistician | Researcher
 
 I specialize in extracting actionable insights from complex datasets through statistical analysis and business intelligence. My work spans rigorous hypothesis testing, root cause analysis for operational problems, and building interactive dashboards that communicate data clearly.
 
